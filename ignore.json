@@ -1,0 +1,13 @@
+{
+    "UnitBornEvent": ["Larva","InvisibleTargetDummy","KD8Charge","MULE","BroodlingEscort","Interceptor","Changeling","ChangelingZealot","ChangelingZergling","ChangelingMarine","AdeptPhaseShift","ForceField","DisruptorPhased","AutoTurret","LocustMP","LocustMPPrecursor","Broodling"],
+    "UnitTypeChangeEvent":["BanelingCocoon","RavagerCocoon","LurkerMPEgg","BroodLordCocoon","OverlordCocoon","TransportOverlordCocoon"],
+    "buildingEvent": ["CreepTumorQueen","CreepTumorBurrowed","CreepTumor"],
+    "UpgradeCompleteEvent": ["SprayZerg","SprayTerran","SprayProtoss"],
+    "UnitDiedEvent":["InvisibleTargetDummy","MineralField750"],
+    "CommandEvent":["UpgradeToOrbitalCommand","UpgradeToPlanetaryFortress"],
+    "DeadEvent":["Drone","Overlord","Queen","Zergling","Baneling","BanelingCocoon","Roach","Hydralisk","Mutalisk","Corruptor","Infestor","SwarmHostMP","Viper","Ultralisk","Ravager","RavagerCocoon","LurkerMP","LurkerMPEgg","LurkerBurrowed","BroodLord","BroodLordCocoon","BroodlingEscort","Overseer","OverlordCocoon","TransportOverlordCocoon","Transport",
+                "SCV","Marine","Marauder","Reaper","Ghost","Hellion","WidowMine","WidowMineBurrowed","Cyclone","SiegeTank","SiegeTankSieged","Thor","VikingFighter","VikingAssault","Medivac","Liberator","Raven","Banshee","Battlecruiser",
+                "Probe","Zealot","Sentry","Stalker","Adept","HighTemplar","DarkTemplar","Archon","Observer","WarpPrism","Immortal","Colossus","Disruptor","Phoenix","Oracle","VoidRay","Tempest","Carrier","Mothership"
+                 ],
+    "sp": ["Flying","Lowered","Sieged","Burrowed","Reactor"]
+}
